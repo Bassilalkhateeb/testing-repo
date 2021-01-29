@@ -4,8 +4,12 @@ __*Bassil*__
 * Hi
 1. Hi
 
-![Cat](images/cat.jpeg) , ![cat image](url)
+![Cat](images/cat.jpeg) 
+
+ ![cat image](url)
+
 > "love yourself"
+
 [x] maghrib prayer
 [x] aser prayer
 [] fajer
@@ -20,7 +24,7 @@ Main page | [Bassil](https://github.com/Bassilalkhateeb)
 https://github.com/
 
 
-<HI>
+'<HI>'
 
 
 
