@@ -4,5 +4,36 @@ body main a {
     text-decoration: none;
 }
 header nav a {
-    color: rgb(3, 3, 7);
+    color: rgb(24, 24, 82);
+}
+#b {
+    color: orange;
+}
+
+header nav ul {
+    list-style: none;
+}
+
+header nav ul li {
+    display: inline-block;
+     padding: 20px 10px 5px 20px;
+     border: solid 2px green;
+     margin: 1px 2px 3px 1px;
+    
+}
+/* * {
+    margin: 0;
+} */
+
+/* here we used margine 0 with a universal selector to remove all the white spaces between sections*/
+main h2 {
+    text-align: center;
+    margin: 20px,0px,20px,0px;
+}
+#c {
+    float: right;
+}
+
+.oo {
+    color: rgb(99, 206, 11);
 }
